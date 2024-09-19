@@ -1,0 +1,10 @@
+.hero{
+    background-image: url(./background.jpg);
+    background-repeat: no-repeat;
+    /* background-position: top left; */
+    /* background-size: contain; */
+    /* background-size: cover; */
+    /* background:  url(https://i.pinimg.com/236x/6e/73/0e/6e730e6a8a788b8559502a6d6df6bfcf.jpg); */
+    background-size: cover;
+    background-attachment: fixed;
+}
